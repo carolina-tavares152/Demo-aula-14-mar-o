@@ -2,4 +2,4 @@
 Repositório de demo Analise de desenvolvimento
 
 Demonstração para aula 14.03
-[faculdade_impacta] wcww.faculdadeimpacta.com.br
+[faculdade_impacta] wuww.faculdadeimpacta.com.br
